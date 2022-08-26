@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6282195322106', '️One', true],
-  ['6282195322106', '️Two', true],
-  ['6282195322106', '️Three', true],
-  ['6282195322106', '️Four', true],
-  ['6282195322106', '️Five', true],
-  ['6282195322106', '️Six', true],
-  ['6282195322106', '️Seven', true],
-  ['6282195322106', '️Eight', true],
-  ['6282195322106', '️Nine', true],
-  ['6282195322106', '️Teen', true]
+  ['62882006485504', '️One', true],
+  ['62882006485504', '️Two', true],
+  ['62882006485504', '️Three', true],
+  ['62882006485504', '️Four', true],
+  ['62882006485504', '️Five', true],
+  ['62882006485504', '️Six', true],
+  ['62882006485504', '️Seven', true],
+  ['62882006485504', '️Eight', true],
+  ['62882006485504', '️Nine', true],
+  ['62882006485504', '️Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -78,15 +78,15 @@ global.xckey = 'BOhjM2hUVn'
 */
 
 /*Number*/
-global.nomorbot = '6285171216276'
-global.nomorown = '6282195322106'
-global.namebot = 'ʜɪɴᴀᴛᴀ-ʙᴏᴛ'
+global.nomorbot = '6283185729856'
+global.nomorown = '62882006485504'
+global.namebot = 'farhan-ganz'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
-global.wm = '                「 ʜɪɴᴀᴛᴀ-ʙᴏᴛ あ⁩ 」'
+global.wm = '                「 farhan-ganz あ⁩ 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ʜɪɴᴀᴛᴀ-ʙᴏᴛ'
+global.wm3 = '⫹⫺ farhan-ganz'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -428,9 +428,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ ʜɪɴᴀᴛᴀ-ʙᴏᴛ\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ farhan-ganz\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
 global.packname = '☂︎ 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘'
-global.author = 'ʜɪɴᴀᴛᴀ-ʙᴏᴛ X Wudysoft'
+global.author = 'farhan-ganz X Wudysoft'
 global.multiplier = 10
 
 /*Pesan*/
